@@ -26,4 +26,4 @@ Islamic content creation platform.
 
 Links
 
-"Portfolio" (https://bekkouche.vercel.app) · "LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:tayebekk2004@gmail.com)
+"Portfolio" (https://bekkouche.vercel.app) · "LinkedIn" (https://www.linkedin.com/in/tayebbekkouche) · "Email" (mailto:tayebekk2004@gmail.com)
