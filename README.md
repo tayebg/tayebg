@@ -1,6 +1,14 @@
-# Tayeb Bekkouche
+<h1>
+  Tayeb Bekkouche
+  <img
+    src="https://img.icons8.com/fluency/48/verified-badge.png"
+    width="22"
+    height="22"
+    alt="Verified"
+  />
+</h1>
 
-**Software Engineer**
+**Software Engineer** `</>`
 
 I design and build clean, reliable web & mobile applications.
 
@@ -30,4 +38,4 @@ Islamic content creation platform.
 
 ### Links
 
-[Portfolio](https://bekkouche.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tayebbekkouche) · [Email](mailto:tayebekk2004@gmail.com)
+[Portfolio](https://bekkouche.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tayebbekkouche) · [Telegram](https://t.me/TayebGroup) · [Email](mailto:tayebekk2004@gmail.com)
