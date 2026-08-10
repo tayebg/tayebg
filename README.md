@@ -30,12 +30,4 @@ Islamic content creation platform.
 
 ### Links
 
-[Portfolio](https://bekkouche.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tayebbekkouche) · [Email](mailto:tayebekk2004@gmail.com)Islamic content creation platform.  
-[Website](https://elqor4n.vercel.app) · [GitHub](https://github.com/tayebg)
-
-### Links
-
 [Portfolio](https://bekkouche.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tayebbekkouche) · [Email](mailto:tayebekk2004@gmail.com)
-Links
-
-"Portfolio" (https://bekkouche.vercel.app) · "LinkedIn" (https://www.linkedin.com/in/tayebbekkouche) · "Email" (mailto:tayebekk2004@gmail.com)
