@@ -1,16 +1,29 @@
-## Hi there 👋
+Tayeb Bekkouche
 
-<!--
-**tayebg/tayebg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
+I design and build clean, reliable web & mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css,tailwind" height="32" />
+</p><p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,vscode,github,capacitor" height="32" />
+</p>Projects
+
+SmartCalc
+GPA calculation and academic tools for university students.
+"Website" (https://smartcalcplus.pages.dev) · "GitHub" (https://github.com/tayebg)
+
+Hekayet Hob
+A modern streaming platform for movies, TV series and animated content.
+"Website" (https://qisat-ishq.vercel.app) · "GitHub" (https://github.com/tayebg)
+
+ELQOR4N
+Islamic content creation platform.
+"Website" (https://elqor4n.vercel.app) · "GitHub" (https://github.com/tayebg)
+
+Links
+
+"Portfolio" (https://bekkouche.vercel.app) · "LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:tayebekk2004@gmail.com)
